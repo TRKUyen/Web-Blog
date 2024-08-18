@@ -102,7 +102,7 @@ img{
     grid-area: logo;
 }
 
-.header-logo:hover{
+.header_logo:hover{
     text-decoration: underline;
 }
 
@@ -112,8 +112,30 @@ img{
     justify-content: center;
 }
 
+.header_logo, .header_nav, .header_button{
+    width: 100%;
+}
+
 .header_button{
     grid-area: button;
     display: flex;
     justify-content: end;
+}
+
+.header_button button{
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+    border: 0;
+    padding: 6px 12px;
+    background: none;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--black);
+}
+
+.header_button button:hover{
+    border: 2px solid var(--black);
 }
