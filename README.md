@@ -123,8 +123,11 @@ To run tests, run the following command
 
 Clone the project
 
+ 
+Run the project (After take mongoDB database)
 ```bash
-  git clone 
+  npm install
+  npm run dev
 ```
 
 
