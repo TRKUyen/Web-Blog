@@ -41,19 +41,17 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <br />
 
+
 <!-- About the Project -->
 ## :star2: About the Project
 
-<div>A project learn and build from two this channel!!!</div>
-### YouTube Channels
 
-[Subscribe to TheNetNinja](https://www.youtube.com/@NetNinja)
+<h3>A project learn and build from two this channel!!!</h3>
+<ul>YouTube Channels:
+  <li>[Subscribe to TheNetNinja](https://www.youtube.com/@NetNinja)</li>
+  <li>[Subscribe to RaddyDev](https://www.youtube.com/@RaddyDev)</li>
+</ul>
 
-[Subscribe to RaddyDev](https://www.youtube.com/@RaddyDev)
-
-
-### Website
-[www.raddy.dev](https://www.raddy.dev)
 
 <!-- Screenshots -->
 ### :camera: Screenshots
